@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            My Landing Page
+            TuStock
           </a>{' '}
         </div>
 
@@ -32,7 +32,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
+                About us
               </a>
             </li>
             <li>
@@ -42,7 +42,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Products
               </a>
             </li>
             <li>

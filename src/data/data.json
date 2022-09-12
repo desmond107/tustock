@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "TUSTOCK",
+        "paragraph": "LETS GO SHOPPING"
 
     },
     "About": {
@@ -105,9 +105,9 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "Halinghum business park, Nairobi, 00800 ",
+        "phone": "+254713905761",
+        "email": "info@tustock.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
