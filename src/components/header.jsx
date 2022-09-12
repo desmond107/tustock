@@ -1,10 +1,12 @@
-import ParticlesBg from "particles-bg";
+//import ParticlesBg from "particles-bg";
+//<ParticlesBg type="cirlcle" bg={{zIndex: 0, position:"absolute", top:0}} />
 
 export const Header = (props) => {
   return (
     <header id='header'>
       <div className='intro'>
-        <ParticlesBg type="circle" bg={{zIndex: 0, position:"absolute", top:0}} />
+        <div style={{ backgroundImage:`url("https://unsplash.com/photos/f20jNUypsxQ")`}}></div>
+      
         <div className='overlay'>
           <div className='container'>
           
@@ -12,7 +14,7 @@ export const Header = (props) => {
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
                   {props.data ? props.data.title : 'Loading'}
-                  <span></span>
+                  <span>STOCK</span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
